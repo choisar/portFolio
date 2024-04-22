@@ -13,9 +13,9 @@
 
 ## 프로젝트 이력
 
-* 중고거래 커뮤니티 프로젝트 [2023.11.13 ~ 2023.11.24]
+* 중고거래 커뮤니티 프로젝트 [2023.11.13 ~ 2023.11.24] https://github.com/choisar/communityProject
 * 기후 변화에 대응하는 농작물 생산량 예측 프로젝트 [2023.12.26 ~ 2024.01.04]
-* COC(Choose own color) [2024.03.08 ~ 2024.04.12]
+* COC(Choose own color) [2024.03.08 ~ 2024.04.12] https://github.com/choisar/coc
 
 
 ## 자격증 및 수상 이력
