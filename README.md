@@ -23,3 +23,4 @@
 * 2급 생활스포츠지도사 - 보디빌딩 [2023.12.08]
 * 운전면허증 - 1종 보통 [2022.07.18]
 
+![image](https://github.com/choisar/portFolio/assets/150644137/2fe4aa81-1851-424c-8a50-43ac4dc23572)
