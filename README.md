@@ -8,8 +8,8 @@
 
 ## 사용 기술
 
-* Java, Python, Javascript
-* Spring, colab
+* Java, Python, Typescript
+* Spring, react, nextJS
 
 ## 프로젝트 이력
 
